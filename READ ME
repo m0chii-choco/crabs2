@@ -1,0 +1,11 @@
+# carbs 2
+
+crabs is a kids video game
+
+Crabs Funcion
+
+getTranslation
+Inputs: x shift dt, y shift dy
+Outputs: shifting matrix T 
+Functions called: Name
+Used By: Draw Capt
